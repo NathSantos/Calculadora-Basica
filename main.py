@@ -2,9 +2,9 @@ from tkinter import *
 from tkinter import ttk
 
 # Definição de cores utilizadas
-color1 = "#30522b"  # verde pastel (mostrador)
-color2 = "#63805e"  # verde calro (teclas)
-color3 = "#acbdaa"  # verde cinza claro
+color1 = "#30522b"  # verde escuro (teclas da direita)
+color2 = "#63805e"  # verde claro (outras teclas)
+color3 = "#acbdaa"  # verde cinza claro (mostrador)
 color4 = "#ffffff"  # branco
 
 
